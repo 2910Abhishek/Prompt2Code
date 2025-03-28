@@ -257,3 +257,195 @@ Write
 2025-03-28 20:05:03,318 - INFO - Generated code for prompt 'Open a new tab in the browser':  public void( ) {( ) ; }( ) ;( ) ;( ) ;( ) ;( ) ;( ) ; }( ) ;( ) ;( ) ;( ) ;( ) ;( ) ;( ) ;( ) ;( ) ;( ) ;( ) ;( ) ;( ) ;( ) ;( )
 2025-03-28 20:05:03,318 - INFO - Generated new code for prompt: Open a new tab in the browser (score: 1.1382709980638201)
 2025-03-28 20:05:03,318 - INFO - Generated response for prompt: Open a new tab in the browser
+2025-03-28 20:30:05,781 - INFO - Using device: cuda
+2025-03-28 20:30:05,880 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-03-28 20:30:11,826 - INFO - Embedding model (all-mpnet-base-v2) loaded
+2025-03-28 20:30:16,308 - INFO - CodeT5-base model loaded on GPU
+2025-03-28 20:30:16,761 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-03-28 20:33:53,954 - INFO - Using device: cuda
+2025-03-28 20:33:54,055 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-03-28 20:34:00,821 - INFO - Embedding model (all-mpnet-base-v2) loaded
+2025-03-28 20:34:05,956 - INFO - CodeT5-base model loaded on GPU
+2025-03-28 20:34:06,565 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-03-28 20:34:06,965 - INFO - Chroma vector store initialized dynamically with 7 functions: ['create_text_file', 'get_cpu_usage', 'get_ram_usage', 'open_calculator', 'open_chrome', 'open_notepad', 'run_shell_command']
+2025-03-28 20:34:06,998 - INFO - Similarity search for 'Take a screenshot': matched 'Opens the Notepad application.' with score 1.3038749129309228
+2025-03-28 20:34:10,883 - INFO - Generated code for prompt 'Take a screenshot':  public static void( ) {( ) ;( ) ; }( ) ;( ) ; }( ) ;( ) ;( ) ; }( ) ;( ) ; }( ) ;( ) ;( ) ; }( ) ; }( ) ;( ) ; }( ) ;( ) ; }( ) ;( ) ;( ) ;
+2025-03-28 20:34:10,883 - INFO - Generated new code for prompt: Take a screenshot (score: 1.3038749129309228)
+2025-03-28 20:34:24,598 - INFO - Using device: cuda
+2025-03-28 20:34:24,704 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-03-28 20:34:29,299 - INFO - Embedding model (all-mpnet-base-v2) loaded
+2025-03-28 20:34:32,635 - INFO - CodeT5-base model loaded on GPU
+2025-03-28 20:34:33,077 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-03-28 20:34:33,770 - INFO - Chroma vector store initialized dynamically with 7 functions: ['create_text_file', 'get_cpu_usage', 'get_ram_usage', 'open_calculator', 'open_chrome', 'open_notepad', 'run_shell_command']
+2025-03-28 20:34:33,809 - INFO - Similarity search for 'Take a screenshot': matched 'Opens the Notepad application.' with score 1.3038749129309228
+2025-03-28 20:34:38,277 - INFO - Generated code for prompt 'Take a screenshot':  public static void( ) {( ) ;( ) ; }( ) ;( ) ; }( ) ;( ) ;( ) ; }( ) ;( ) ; }( ) ;( ) ;( ) ; }( ) ; }( ) ;( ) ; }( ) ;( ) ; }( ) ;( ) ;( ) ;
+2025-03-28 20:34:38,278 - INFO - Generated new code for prompt: Take a screenshot (score: 1.3038749129309228)
+2025-03-28 20:36:48,126 - INFO - Using device: cuda
+2025-03-28 20:36:48,234 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-03-28 20:36:53,573 - INFO - Embedding model (all-mpnet-base-v2) loaded
+2025-03-28 20:36:57,747 - INFO - CodeT5-base model loaded on GPU
+2025-03-28 20:36:58,321 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-03-28 20:36:59,421 - INFO - Chroma vector store initialized dynamically with 7 functions: ['create_text_file', 'get_cpu_usage', 'get_ram_usage', 'open_calculator', 'open_chrome', 'open_notepad', 'run_shell_command']
+2025-03-28 20:36:59,477 - INFO - Similarity search for 'Take a screenshot': matched 'Opens the Notepad application.' with score 1.3038749129309228
+2025-03-28 20:37:02,087 - INFO - Generated code for prompt 'Take a screenshot': ............) ; }.) ; }.) ; }( ) ; }
+2025-03-28 20:37:02,094 - INFO - Generated new code for prompt: Take a screenshot (score: 1.3038749129309228)
+2025-03-28 20:37:02,125 - INFO - Similarity search for 'Get CPU usage': matched 'Returns the current CPU usage percentage.' with score 0.38458551631241433
+2025-03-28 20:37:02,125 - INFO - Retrieved function: get_cpu_usage (score: 0.38458551631241433)
+2025-03-28 20:37:02,151 - INFO - Similarity search for 'Create a file named test.txt': matched 'Creates a text file with the given filename and content.' with score 0.4890868150269948
+2025-03-28 20:37:02,151 - INFO - Retrieved function: create_text_file (score: 0.4890868150269948)
+2025-03-28 20:37:02,180 - INFO - Similarity search for 'Download a file from https://example.com': matched 'Creates a text file with the given filename and content.' with score 1.6162883985854577
+2025-03-28 20:37:04,411 - INFO - Generated code for prompt 'Download a file from https://example.com': ..........................
+2025-03-28 20:37:04,418 - INFO - Generated new code for prompt: Download a file from https://example.com (score: 1.6162883985854577)
+2025-03-28 20:39:03,063 - INFO - Using device: cuda
+2025-03-28 20:39:03,162 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-03-28 20:39:09,143 - INFO - Embedding model (all-mpnet-base-v2) loaded
+2025-03-28 20:39:14,085 - INFO - CodeT5-base model loaded on GPU
+2025-03-28 20:39:14,556 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-03-28 20:39:15,243 - INFO - Chroma vector store initialized dynamically with 7 functions: ['create_text_file', 'get_cpu_usage', 'get_ram_usage', 'open_calculator', 'open_chrome', 'open_notepad', 'run_shell_command']
+2025-03-28 20:39:15,347 - INFO - Similarity search for 'Take a screenshot': matched 'Opens the Notepad application.' with score 1.3038749129309228
+2025-03-28 20:39:17,277 - INFO - Generated code for prompt 'Take a screenshot': ............) ; }.) ; }.) ; }( ) ; }
+2025-03-28 20:39:17,277 - INFO - Generated new code for prompt: Take a screenshot (score: 1.3038749129309228)
+2025-03-28 20:39:17,300 - INFO - Similarity search for 'Get CPU usage': matched 'Returns the current CPU usage percentage.' with score 0.38458551631241433
+2025-03-28 20:39:17,300 - INFO - Retrieved function: get_cpu_usage (score: 0.38458551631241433)
+2025-03-28 20:39:17,313 - INFO - Similarity search for 'Create a file named test.txt': matched 'Creates a text file with the given filename and content.' with score 0.4890868150269948
+2025-03-28 20:39:17,313 - INFO - Retrieved function: create_text_file (score: 0.4890868150269948)
+2025-03-28 20:39:17,327 - INFO - Similarity search for 'Download a file from https://example.com': matched 'Creates a text file with the given filename and content.' with score 1.6162883985854577
+2025-03-28 20:39:18,128 - INFO - Generated code for prompt 'Download a file from https://example.com': ..........................
+2025-03-28 20:39:18,128 - INFO - Generated new code for prompt: Download a file from https://example.com (score: 1.6162883985854577)
+2025-03-28 20:42:38,009 - INFO - Using device: cuda
+2025-03-28 20:42:38,140 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-03-28 20:42:43,752 - INFO - Embedding model (all-mpnet-base-v2) loaded
+2025-03-28 20:42:49,889 - INFO - CodeT5-base model loaded on GPU
+2025-03-28 20:42:50,202 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-03-28 20:42:51,862 - INFO - Chroma vector store initialized dynamically with 7 functions: ['create_text_file', 'get_cpu_usage', 'get_ram_usage', 'open_calculator', 'open_chrome', 'open_notepad', 'run_shell_command']
+2025-03-28 20:42:51,862 - INFO - API starting with device: cuda
+2025-03-28 20:44:18,627 - INFO - Processing prompt: Get CPU usage
+2025-03-28 20:44:18,803 - INFO - Similarity search for 'Get CPU usage': matched 'Returns the current CPU usage percentage.' with score 0.38458551631241433
+2025-03-28 20:44:18,803 - INFO - Retrieved function: get_cpu_usage (score: 0.38458551631241433)
+2025-03-28 20:44:18,804 - INFO - Generated response for prompt: Get CPU usage
+2025-03-28 20:44:34,752 - INFO - Processing prompt: Create a file named test.txt
+2025-03-28 20:44:34,771 - INFO - Similarity search for 'Create a file named test.txt': matched 'Creates a text file with the given filename and content.' with score 0.4890868150269948
+2025-03-28 20:44:34,771 - INFO - Retrieved function: create_text_file (score: 0.4890868150269948)
+2025-03-28 20:44:34,772 - INFO - Generated response for prompt: Create a file named test.txt
+2025-03-28 20:44:40,224 - INFO - Processing prompt: Take a screenshot
+2025-03-28 20:44:40,238 - INFO - Similarity search for 'Take a screenshot': matched 'Opens the Notepad application.' with score 1.3038749129309228
+2025-03-28 20:44:41,511 - INFO - Generated code for prompt 'Take a screenshot': ..........................
+2025-03-28 20:44:41,511 - INFO - Generated new code for prompt: Take a screenshot (score: 1.3038749129309228)
+2025-03-28 20:44:41,511 - INFO - Generated response for prompt: Take a screenshot
+2025-03-28 20:44:54,420 - INFO - Processing prompt: Download a file from https://abcd.com
+2025-03-28 20:44:54,441 - INFO - Similarity search for 'Download a file from https://abcd.com': matched 'Opens the Notepad application.' with score 1.5344601715437962
+2025-03-28 20:44:55,240 - INFO - Generated code for prompt 'Download a file from https://abcd.com': ..........................
+2025-03-28 20:44:55,240 - INFO - Generated new code for prompt: Download a file from https://abcd.com (score: 1.5344601715437962)
+2025-03-28 20:44:55,241 - INFO - Generated response for prompt: Download a file from https://abcd.com
+2025-03-28 20:51:22,500 - INFO - Processing prompt: Fly to the moon
+2025-03-28 20:51:22,542 - INFO - Similarity search for 'Fly to the moon': matched 'Opens Google Chrome browser to Google homepage.' with score 1.6952162981513195
+2025-03-28 20:51:23,336 - INFO - Generated code for prompt 'Fly to the moon': ..........................
+2025-03-28 20:51:23,336 - INFO - Generated new code for prompt: Fly to the moon (score: 1.6952162981513195)
+2025-03-28 20:51:23,336 - INFO - Generated response for prompt: Fly to the moon
+2025-03-28 20:51:32,469 - ERROR - Empty prompt received
+2025-03-28 20:51:32,470 - ERROR - Error processing prompt '': 400: Prompt cannot be empty
+2025-03-28 20:51:57,045 - ERROR - Empty prompt received
+2025-03-28 20:51:57,045 - ERROR - Error processing prompt '': 400: Prompt cannot be empty
+2025-03-28 20:52:02,059 - INFO - Processing prompt: Download a file from https://abcd.com
+2025-03-28 20:52:02,089 - INFO - Similarity search for 'Download a file from https://abcd.com': matched 'Opens the Notepad application.' with score 1.5344601715437962
+2025-03-28 20:52:02,911 - INFO - Generated code for prompt 'Download a file from https://abcd.com': ..........................
+2025-03-28 20:52:02,911 - INFO - Generated new code for prompt: Download a file from https://abcd.com (score: 1.5344601715437962)
+2025-03-28 20:52:02,911 - INFO - Generated response for prompt: Download a file from https://abcd.com
+2025-03-28 20:52:47,582 - INFO - Added custom function: open_terminal
+2025-03-28 20:52:54,699 - INFO - Added custom function: open_terminal
+2025-03-28 20:52:57,551 - INFO - Added custom function: open_terminal
+2025-03-28 20:53:09,306 - INFO - Processing prompt: Open the system terminal
+2025-03-28 20:53:09,323 - INFO - Similarity search for 'Open the system terminal': matched 'Opens the system terminal' with score 0.2430701679415023
+2025-03-28 20:53:09,323 - INFO - Retrieved function: open_terminal (score: 0.2430701679415023)
+2025-03-28 20:53:09,323 - INFO - Generated response for prompt: Open the system terminal
+2025-03-28 20:53:27,231 - ERROR - Error adding function '': 400: Name and description cannot be empty
+2025-03-28 20:59:52,271 - INFO - Processing prompt: Take a screenshot
+2025-03-28 20:59:52,310 - INFO - Similarity search for 'Take a screenshot': matched 'Opens the Notepad application.' with score 1.3038749129309228
+2025-03-28 20:59:53,142 - INFO - Generated code for prompt 'Take a screenshot': ..........................
+2025-03-28 20:59:53,142 - INFO - Generated new code for prompt: Take a screenshot (score: 1.3038749129309228)
+2025-03-28 20:59:53,142 - INFO - Generated response for prompt: Take a screenshot
+2025-03-28 20:59:55,148 - INFO - Processing prompt: Get CPU usage
+2025-03-28 20:59:55,161 - INFO - Similarity search for 'Get CPU usage': matched 'Returns the current CPU usage percentage.' with score 0.38458551631241433
+2025-03-28 20:59:55,161 - INFO - Retrieved function: get_cpu_usage (score: 0.38458551631241433)
+2025-03-28 20:59:55,161 - INFO - Generated response for prompt: Get CPU usage
+2025-03-28 20:59:57,166 - INFO - Processing prompt: Create a file named test.txt
+2025-03-28 20:59:57,180 - INFO - Similarity search for 'Create a file named test.txt': matched 'Creates a text file with the given filename and content.' with score 0.4890868150269948
+2025-03-28 20:59:57,180 - INFO - Retrieved function: create_text_file (score: 0.4890868150269948)
+2025-03-28 20:59:57,180 - INFO - Generated response for prompt: Create a file named test.txt
+2025-03-28 20:59:59,183 - INFO - Processing prompt: Download a file from https://example.com
+2025-03-28 20:59:59,197 - INFO - Similarity search for 'Download a file from https://example.com': matched 'Creates a text file with the given filename and content.' with score 1.6162883985854577
+2025-03-28 21:00:00,613 - INFO - Generated code for prompt 'Download a file from https://example.com': a file named test.txt create_text_file
+Writea file from https://abcd.com custom_generateda file from https://abcd.com custom_generateda file from https://abcd.com custom_generateda file from https://abcd.com custom_generateda file from https://abcd.com custom_generateda file from https://abcd.com custom_generateda file from https://
+2025-03-28 21:00:00,613 - INFO - Generated new code for prompt: Download a file from https://example.com (score: 1.6162883985854577)
+2025-03-28 21:00:00,613 - INFO - Generated response for prompt: Download a file from https://example.com
+2025-03-28 21:00:02,618 - INFO - Processing prompt: Open the system terminal
+2025-03-28 21:00:02,631 - INFO - Similarity search for 'Open the system terminal': matched 'Opens the system terminal' with score 0.2430701679415023
+2025-03-28 21:00:02,631 - INFO - Retrieved function: open_terminal (score: 0.2430701679415023)
+2025-03-28 21:00:02,631 - INFO - Generated response for prompt: Open the system terminal
+2025-03-28 21:03:25,437 - INFO - Processing prompt: Take a screenshot
+2025-03-28 21:03:25,468 - INFO - Similarity search for 'Take a screenshot': matched 'Opens the Notepad application.' with score 1.3038749129309228
+2025-03-28 21:03:26,969 - INFO - Generated code for prompt 'Take a screenshot': a file named test.txt create_text_filea file from https://example.com custom_generatedOpen the system terminal open_terminala file from https://example.com custom_generatedOpen the system terminal open_terminal
+Write(e.g., os, webbrowser,pyautogui, requests, subprocess,(e.g.,(e.g., os, webbrowser,(e.g.,
+2025-03-28 21:03:26,969 - INFO - Generated new code for prompt: Take a screenshot (score: 1.3038749129309228)
+2025-03-28 21:03:26,969 - INFO - Generated response for prompt: Take a screenshot
+2025-03-28 21:03:28,973 - INFO - Processing prompt: Get CPU usage
+2025-03-28 21:03:28,985 - INFO - Similarity search for 'Get CPU usage': matched 'Returns the current CPU usage percentage.' with score 0.38458551631241433
+2025-03-28 21:03:28,985 - INFO - Retrieved function: get_cpu_usage (score: 0.38458551631241433)
+2025-03-28 21:03:28,986 - INFO - Generated response for prompt: Get CPU usage
+2025-03-28 21:03:30,989 - INFO - Processing prompt: Create a file named test.txt
+2025-03-28 21:03:31,002 - INFO - Similarity search for 'Create a file named test.txt': matched 'Creates a text file with the given filename and content.' with score 0.4890868150269948
+2025-03-28 21:03:31,003 - INFO - Retrieved function: create_text_file (score: 0.4890868150269948)
+2025-03-28 21:03:31,003 - INFO - Generated response for prompt: Create a file named test.txt
+2025-03-28 21:03:33,007 - INFO - Processing prompt: Download a file from https://example.com
+2025-03-28 21:03:33,021 - INFO - Similarity search for 'Download a file from https://example.com': matched 'Creates a text file with the given filename and content.' with score 1.6162883985854577
+2025-03-28 21:03:34,531 - INFO - Generated code for prompt 'Download a file from https://example.com': a file from https://abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd
+2025-03-28 21:03:34,531 - INFO - Generated new code for prompt: Download a file from https://example.com (score: 1.6162883985854577)
+2025-03-28 21:03:34,531 - INFO - Generated response for prompt: Download a file from https://example.com
+2025-03-28 21:03:36,535 - INFO - Processing prompt: Open the system terminal
+2025-03-28 21:03:36,547 - INFO - Similarity search for 'Open the system terminal': matched 'Opens the system terminal' with score 0.2430701679415023
+2025-03-28 21:03:36,548 - INFO - Retrieved function: open_terminal (score: 0.2430701679415023)
+2025-03-28 21:03:36,548 - INFO - Generated response for prompt: Open the system terminal
+2025-03-28 21:06:36,273 - INFO - Processing prompt: Take a screenshot
+2025-03-28 21:06:36,301 - INFO - Similarity search for 'Take a screenshot': matched 'Opens the Notepad application.' with score 1.3038749129309228
+2025-03-28 21:06:37,819 - INFO - Generated code for prompt 'Take a screenshot': a file from https://abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd
+2025-03-28 21:06:37,819 - INFO - Generated new code for prompt: Take a screenshot (score: 1.3038749129309228)
+2025-03-28 21:06:37,819 - INFO - Generated response for prompt: Take a screenshot
+2025-03-28 21:06:39,824 - INFO - Processing prompt: Get CPU usage
+2025-03-28 21:06:39,837 - INFO - Similarity search for 'Get CPU usage': matched 'Returns the current CPU usage percentage.' with score 0.38458551631241433
+2025-03-28 21:06:39,837 - INFO - Retrieved function: get_cpu_usage (score: 0.38458551631241433)
+2025-03-28 21:06:39,837 - INFO - Generated response for prompt: Get CPU usage
+2025-03-28 21:06:41,841 - INFO - Processing prompt: Create a file named test.txt
+2025-03-28 21:06:41,853 - INFO - Similarity search for 'Create a file named test.txt': matched 'Creates a text file with the given filename and content.' with score 0.4890868150269948
+2025-03-28 21:06:41,853 - INFO - Retrieved function: create_text_file (score: 0.4890868150269948)
+2025-03-28 21:06:41,854 - INFO - Generated response for prompt: Create a file named test.txt
+2025-03-28 21:06:43,858 - INFO - Processing prompt: Download a file from https://example.com
+2025-03-28 21:06:43,872 - INFO - Similarity search for 'Download a file from https://example.com': matched 'Creates a text file with the given filename and content.' with score 1.6162883985854577
+2025-03-28 21:06:45,375 - INFO - Generated code for prompt 'Download a file from https://example.com': a file from https://abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd
+2025-03-28 21:06:45,375 - INFO - Generated new code for prompt: Download a file from https://example.com (score: 1.6162883985854577)
+2025-03-28 21:06:45,375 - INFO - Generated response for prompt: Download a file from https://example.com
+2025-03-28 21:06:47,378 - INFO - Processing prompt: Open the system terminal
+2025-03-28 21:06:47,391 - INFO - Similarity search for 'Open the system terminal': matched 'Opens the system terminal' with score 0.2430701679415023
+2025-03-28 21:06:47,392 - INFO - Retrieved function: open_terminal (score: 0.2430701679415023)
+2025-03-28 21:06:47,392 - INFO - Generated response for prompt: Open the system terminal
+2025-03-28 21:10:20,893 - INFO - Processing prompt: Take a screenshot
+2025-03-28 21:10:20,922 - INFO - Similarity search for 'Take a screenshot': matched 'Opens the Notepad application.' with score 1.3038749129309228
+2025-03-28 21:10:22,466 - INFO - Generated code for prompt 'Take a screenshot': a file named test.txt create_text_filea file from https://abcd.com custom_generatedOpen the system terminal open_terminala screenshot custom_generated Getfile named test.txt create_text_file Downloadfile from https://abcd.com custom_generatedOpen the system terminal open_terminalscreenshot custom_generated Getfile named test.txt create_text_file Downloadfile from https://abcd.
+2025-03-28 21:10:22,466 - INFO - Generated new code for prompt: Take a screenshot (score: 1.3038749129309228)
+2025-03-28 21:10:22,466 - INFO - Generated response for prompt: Take a screenshot
+2025-03-28 21:10:24,471 - INFO - Processing prompt: Get CPU usage
+2025-03-28 21:10:24,489 - INFO - Similarity search for 'Get CPU usage': matched 'Returns the current CPU usage percentage.' with score 0.38458551631241433
+2025-03-28 21:10:24,489 - INFO - Retrieved function: get_cpu_usage (score: 0.38458551631241433)
+2025-03-28 21:10:24,489 - INFO - Generated response for prompt: Get CPU usage
+2025-03-28 21:10:26,494 - INFO - Processing prompt: Create a file named test.txt
+2025-03-28 21:10:26,511 - INFO - Similarity search for 'Create a file named test.txt': matched 'Creates a text file with the given filename and content.' with score 0.4890868150269948
+2025-03-28 21:10:26,511 - INFO - Retrieved function: create_text_file (score: 0.4890868150269948)
+2025-03-28 21:10:26,511 - INFO - Generated response for prompt: Create a file named test.txt
+2025-03-28 21:10:28,517 - INFO - Processing prompt: Download a file from https://example.com
+2025-03-28 21:10:28,532 - INFO - Similarity search for 'Download a file from https://example.com': matched 'Creates a text file with the given filename and content.' with score 1.6162883985854577
+2025-03-28 21:10:30,172 - INFO - Generated code for prompt 'Download a file from https://example.com': a file from https://abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd.com/abcd
+2025-03-28 21:10:30,172 - INFO - Generated new code for prompt: Download a file from https://example.com (score: 1.6162883985854577)
+2025-03-28 21:10:30,172 - INFO - Generated response for prompt: Download a file from https://example.com
+2025-03-28 21:10:32,176 - INFO - Processing prompt: Open the system terminal
+2025-03-28 21:10:32,191 - INFO - Similarity search for 'Open the system terminal': matched 'Opens the system terminal' with score 0.2430701679415023
+2025-03-28 21:10:32,191 - INFO - Retrieved function: open_terminal (score: 0.2430701679415023)
+2025-03-28 21:10:32,191 - INFO - Generated response for prompt: Open the system terminal
