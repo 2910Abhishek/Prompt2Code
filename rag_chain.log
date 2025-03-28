@@ -1,0 +1,8 @@
+2025-03-28 09:55:39,346 - INFO - Use pytorch device_name: cuda
+2025-03-28 09:55:39,346 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-03-28 09:55:45,784 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-03-28 09:55:46,243 - INFO - Chroma vector store initialized
+2025-03-28 09:55:52,185 - INFO - Use pytorch device_name: cuda
+2025-03-28 09:55:52,185 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-03-28 09:55:59,676 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-03-28 09:56:00,013 - INFO - Chroma vector store initialized
