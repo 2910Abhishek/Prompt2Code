@@ -1,4 +1,3 @@
-# api.py
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 from rag_chain import process_query, vector_store, embedding_model
@@ -51,3 +50,8 @@ async def add_custom_function(request: CustomFunctionRequest):
     except Exception as e:
         logger.error(f"Error adding function '{request.name}': {str(e)}")
         raise HTTPException(status_code=500, detail=f"Error adding function: {str(e)}")
+
+# Start the API (for testing)
+if __name__ == "__main__":
+    import uvicorn
+    uvicorn.run(app, host="0.0.0.0", port=8000)
