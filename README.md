@@ -1,15 +1,14 @@
-# 🚀 Prompt2Code: LLM + RAG-Based Function Execution API
+# Prompt2Code: LLM + RAG-Based Function Execution API
 
-**Transform Natural Language into Automation Magic**
+Transform Natural Language into Automation Magic 🚀
 
 A Python-based API service that dynamically retrieves and executes automation functions using Retrieval-Augmented Generation (RAG) and an LLM.
 
-
-## 🌟 Objective
+## Objective
 
 Prompt2Code converts user prompts into executable Python code for automation tasks. It uses a RAG pipeline to retrieve predefined functions or generate new code, served via a FastAPI endpoint, with terminal execution for real-time results.
 
-## 📋 Task Requirements & Deliverables
+## Task Requirements & Deliverables
 
 ### 1. Function Registry
 
@@ -76,7 +75,7 @@ if __name__ == "__main__":
   - **Request**: `{"prompt": "Open calculator"}`
   - **Response**: `{"function": "open_calculator", "code": "<Generated Code>"}`
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Prompt2Code/
@@ -89,14 +88,14 @@ Prompt2Code/
 └── requirements.txt        # Dependencies
 ```
 
-## 🛠️ Prerequisites
+## Prerequisites
 
-- **OS**: Arch Linux or choose you own OS
+- **OS**: Arch Linux or choose your own OS
 - **Python**: 3.11.9
 - **CUDA**: 12.6 (GPU acceleration)
 - **Dependencies**: See `requirements.txt`
 
-## ⚙️ Setup
+## Setup
 
 1. **Clone the Repository**:
    ```bash
@@ -126,7 +125,7 @@ Prompt2Code/
    python executor.py
    ```
 
-## 🎮 Usage
+## Usage
 
 ### Via Executor
 Edit `test_prompts` in `executor.py`:
@@ -149,48 +148,35 @@ curl -X POST -H "Content-Type: application/json" -d '{"prompt": "Create a file n
 curl -X POST -H "Content-Type: application/json" -d '{"name": "custom_task", "description": "Custom automation task"}' http://localhost:8000/add_function
 ```
 
-## 📸 Screenshots
-
-### 1. CPU Usage Output
-![CPU Usage](CPU_usage.png)
-- **Where**: After "Get CPU usage" prompt in `executor.py`.
-- **Shows**: Terminal displaying CPU percentage (e.g., `12.5`).
-
-### 2. File Creation
-![File Creation](file.png)
-- **Where**: After "Create a file named test.txt" prompt.
-- **Shows**: Terminal output and `test.txt` in directory.
-
-## 🔍 How It Works
+## How It Works
 
 1. **Prompt Input**: User sends a prompt via API or `executor.py`.
 2. **RAG Retrieval**: `rag_chain.py` searches ChromaDB for matching functions or generates code with CodeT5.
 3. **API Response**: `api.py` returns the function name and code.
 4. **Execution**: `executor.py` runs the code in a single `gnome-terminal`, waiting for user input before proceeding.
 
-## ✅ Evaluation Criteria Met
+## Evaluation Criteria Met
 
 - **Accuracy**: Precise function retrieval with similarity scoring.
 - **Code Quality**: Structured, error-handled Python scripts.
 - **API Robustness**: Handles errors (e.g., empty prompts) with 400/500 responses.
 - **Extendability**: Supports new functions via `/add_function`.
 
-## 🎉 Bonus Enhancements
+## Bonus Enhancements
 
 - **Logging**: Comprehensive logs in `executor.log` and per-prompt `<prompt>_execution.log`.
 
-
-## 🌈 Future Enhancements
+## Future Enhancements
 
 - Direct execution of custom-generated code.
 - Cross-platform support (Windows CMD, macOS Terminal).
 
-## 🙌 Acknowledgments
+## Acknowledgments
 
 Powered by LangChain, HuggingFace, FastAPI, and PyTorch (CUDA 12.6).
 
 ---
 
-**Star this repo if you enjoyed it! 🌟**
+**Star this repo if you enjoyed it! ⭐**
 
 *Created by Abhishek Narendra Parmar*
