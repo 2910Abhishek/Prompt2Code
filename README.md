@@ -177,6 +177,5 @@ Powered by LangChain, HuggingFace, FastAPI, and PyTorch (CUDA 12.6).
 
 ---
 
-**Star this repo if you enjoyed it! ⭐**
 
 *Created by Abhishek Narendra Parmar*
