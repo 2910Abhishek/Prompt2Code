@@ -68,3 +68,47 @@
 2025-03-28 21:10:32,193 - INFO - Saved code to temporary file: /home/abhishekp/Documents/Projects/Prompt2Code/tmp__7sbvii.py
 2025-03-28 21:10:32,193 - INFO - Opened terminal to execute: /home/abhishekp/Documents/Projects/Prompt2Code/tmp__7sbvii.py in /home/abhishekp/Documents/Projects/Prompt2Code
 2025-03-28 21:10:32,193 - INFO - Output will be visible in the terminal window for 'Open the system terminal'
+2025-03-28 21:54:28,298 - Generated code for prompt 'Get CPU usage': ['from automation_functions import get_cpu_usage', 'def main():', '    try:', '        result = get_cpu_usage()', '        if result is not None:', '            print(result)', '        else:', '            print("get_cpu_usage executed successfully.")', '    except Exception as e:', '        print(f"Error: {e}")', 'if __name__ == "__main__":', '    main()']
+2025-03-28 21:54:28,298 - Saved code to temporary file: /home/abhishekp/Documents/Projects/Prompt2Code/tmpsnq_3xwi.py
+2025-03-28 21:54:28,575 - Executed script in terminal: /home/abhishekp/Documents/Projects/Prompt2Code/tmpsnq_3xwi.py in /home/abhishekp/Documents/Projects/Prompt2Code
+2025-03-28 21:54:28,576 - Cleaned up temporary file: /home/abhishekp/Documents/Projects/Prompt2Code/tmpsnq_3xwi.py
+2025-03-28 21:54:28,576 - Output displayed in terminal for 'Get CPU usage'
+2025-03-28 21:54:33,314 - Generated code for prompt 'Get CPU usage': ['from automation_functions import get_cpu_usage', 'def main():', '    try:', '        result = get_cpu_usage()', '        if result is not None:', '            print(result)', '        else:', '            print("get_cpu_usage executed successfully.")', '    except Exception as e:', '        print(f"Error: {e}")', 'if __name__ == "__main__":', '    main()']
+2025-03-28 21:54:33,315 - Saved code to temporary file: /home/abhishekp/Documents/Projects/Prompt2Code/tmpa1hi06k_.py
+2025-03-28 21:54:33,541 - Executed script in terminal: /home/abhishekp/Documents/Projects/Prompt2Code/tmpa1hi06k_.py in /home/abhishekp/Documents/Projects/Prompt2Code
+2025-03-28 21:54:33,541 - Cleaned up temporary file: /home/abhishekp/Documents/Projects/Prompt2Code/tmpa1hi06k_.py
+2025-03-28 21:54:33,542 - Output displayed in terminal for 'Get CPU usage'
+2025-03-28 21:54:44,668 - Generated code for prompt 'Get CPU usage': ['from automation_functions import get_cpu_usage', 'def main():', '    try:', '        result = get_cpu_usage()', '        if result is not None:', '            print(result)', '        else:', '            print("get_cpu_usage executed successfully.")', '    except Exception as e:', '        print(f"Error: {e}")', 'if __name__ == "__main__":', '    main()']
+2025-03-28 21:54:44,668 - Saved code to temporary file: /home/abhishekp/Documents/Projects/Prompt2Code/tmp5zbp1_rw.py
+2025-03-28 21:54:44,866 - Executed script in terminal: /home/abhishekp/Documents/Projects/Prompt2Code/tmp5zbp1_rw.py in /home/abhishekp/Documents/Projects/Prompt2Code
+2025-03-28 21:54:44,866 - Cleaned up temporary file: /home/abhishekp/Documents/Projects/Prompt2Code/tmp5zbp1_rw.py
+2025-03-28 21:54:44,866 - Output displayed in terminal for 'Get CPU usage'
+2025-03-28 21:54:48,503 - Generated code for prompt 'Get CPU usage': ['from automation_functions import get_cpu_usage', 'def main():', '    try:', '        result = get_cpu_usage()', '        if result is not None:', '            print(result)', '        else:', '            print("get_cpu_usage executed successfully.")', '    except Exception as e:', '        print(f"Error: {e}")', 'if __name__ == "__main__":', '    main()']
+2025-03-28 21:54:48,503 - Saved code to temporary file: /home/abhishekp/Documents/Projects/Prompt2Code/tmpief0i270.py
+2025-03-28 21:54:48,708 - Executed script in terminal: /home/abhishekp/Documents/Projects/Prompt2Code/tmpief0i270.py in /home/abhishekp/Documents/Projects/Prompt2Code
+2025-03-28 21:54:48,708 - Cleaned up temporary file: /home/abhishekp/Documents/Projects/Prompt2Code/tmpief0i270.py
+2025-03-28 21:54:48,708 - Output displayed in terminal for 'Get CPU usage'
+2025-03-28 21:54:48,794 - Generated code for prompt 'Create a file named myfile.txt': ['from automation_functions import create_text_file', 'def main():', '    try:', "        result = create_text_file('myfile.txt')", '        if result is not None:', '            print(result)', '        else:', '            print("create_text_file executed successfully.")', '    except Exception as e:', '        print(f"Error: {e}")', 'if __name__ == "__main__":', '    main()']
+2025-03-28 21:54:48,795 - Saved code to temporary file: /home/abhishekp/Documents/Projects/Prompt2Code/tmpvg97woz0.py
+2025-03-28 21:54:49,017 - Executed script in terminal: /home/abhishekp/Documents/Projects/Prompt2Code/tmpvg97woz0.py in /home/abhishekp/Documents/Projects/Prompt2Code
+2025-03-28 21:54:49,017 - Cleaned up temporary file: /home/abhishekp/Documents/Projects/Prompt2Code/tmpvg97woz0.py
+2025-03-28 21:54:49,017 - File created as 'myfile.txt' in /home/abhishekp/Documents/Projects/Prompt2Code
+2025-03-28 21:54:51,852 - Generated code for prompt 'Take a screenshot': ['import pyautogui', "pyautogui.screenshot('screenshot.png')", '', 'def main():', '    try:', "        pyautogui.screenshot('screenshot.png')", '        print("Task executed successfully.")', '    except Exception as e:', '        print(f"Error: {e}")', 'if __name__ == "__main__":', '    main()']
+2025-03-28 21:54:51,852 - Saved code to temporary file: /home/abhishekp/Documents/Projects/Prompt2Code/tmpcznqd6xq.py
+2025-03-28 21:54:52,101 - Executed script in terminal: /home/abhishekp/Documents/Projects/Prompt2Code/tmpcznqd6xq.py in /home/abhishekp/Documents/Projects/Prompt2Code
+2025-03-28 21:54:52,101 - Cleaned up temporary file: /home/abhishekp/Documents/Projects/Prompt2Code/tmpcznqd6xq.py
+2025-03-28 21:54:52,101 - Screenshot saved as 'screenshot.png' in /home/abhishekp/Documents/Projects/Prompt2Code
+2025-03-28 21:54:54,539 - Generated code for prompt 'Download a file from https://example.com': ['import requests', "response = requests.get('https://example.com')", "with open('downloaded_file', 'wb') as f:", '    f.write(response.content)', '', 'def main():', '    try:', "        response = requests.get('https://example.com')", "        with open('downloaded_file', 'wb') as f:", '            f.write(response.content)', '        print("Task executed successfully.")', '    except Exception as e:', '        print(f"Error: {e}")', 'if __name__ == "__main__":', '    main()']
+2025-03-28 21:54:54,539 - Saved code to temporary file: /home/abhishekp/Documents/Projects/Prompt2Code/tmp0kkgh10u.py
+2025-03-28 21:54:54,750 - Executed script in terminal: /home/abhishekp/Documents/Projects/Prompt2Code/tmp0kkgh10u.py in /home/abhishekp/Documents/Projects/Prompt2Code
+2025-03-28 21:54:54,750 - Cleaned up temporary file: /home/abhishekp/Documents/Projects/Prompt2Code/tmp0kkgh10u.py
+2025-03-28 21:54:54,750 - Downloaded file saved as 'downloaded_file' in /home/abhishekp/Documents/Projects/Prompt2Code
+2025-03-28 21:54:54,789 - Generated code for prompt 'Open the system terminal': ['from automation_functions import open_terminal', 'def main():', '    try:', '        result = open_terminal()', '        if result is not None:', '            print(result)', '        else:', '            print("open_terminal executed successfully.")', '    except Exception as e:', '        print(f"Error: {e}")', 'if __name__ == "__main__":', '    main()']
+2025-03-28 21:54:54,790 - Saved code to temporary file: /home/abhishekp/Documents/Projects/Prompt2Code/tmp441v0m7i.py
+2025-03-28 21:54:54,870 - Executed script in terminal: /home/abhishekp/Documents/Projects/Prompt2Code/tmp441v0m7i.py in /home/abhishekp/Documents/Projects/Prompt2Code
+2025-03-28 21:54:54,870 - Cleaned up temporary file: /home/abhishekp/Documents/Projects/Prompt2Code/tmp441v0m7i.py
+2025-03-28 21:54:54,870 - Output displayed in terminal for 'Open the system terminal'
+2025-03-28 21:54:57,429 - Generated code for prompt 'Fly to the moon': ['# No valid code generated for this prompt', "print('Task not recognized')", '', 'def main():', '    try:', "        print('Task not recognized')", '        print("Task executed successfully.")', '    except Exception as e:', '        print(f"Error: {e}")', 'if __name__ == "__main__":', '    main()']
+2025-03-28 21:54:57,429 - Saved code to temporary file: /home/abhishekp/Documents/Projects/Prompt2Code/tmpw2bwqnc4.py
+2025-03-28 21:54:57,667 - Executed script in terminal: /home/abhishekp/Documents/Projects/Prompt2Code/tmpw2bwqnc4.py in /home/abhishekp/Documents/Projects/Prompt2Code
+2025-03-28 21:54:57,667 - Cleaned up temporary file: /home/abhishekp/Documents/Projects/Prompt2Code/tmpw2bwqnc4.py
