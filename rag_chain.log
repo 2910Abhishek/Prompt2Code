@@ -6,3 +6,254 @@
 2025-03-28 09:55:52,185 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
 2025-03-28 09:55:59,676 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
 2025-03-28 09:56:00,013 - INFO - Chroma vector store initialized
+2025-03-28 18:48:42,833 - INFO - Using device: cuda
+2025-03-28 18:48:42,924 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-03-28 18:49:10,429 - INFO - Embedding model (all-mpnet-base-v2) loaded
+2025-03-28 18:51:49,081 - INFO - Using device: cuda
+2025-03-28 18:51:49,176 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-03-28 18:51:54,509 - INFO - Embedding model (all-mpnet-base-v2) loaded
+2025-03-28 18:52:00,828 - INFO - CodeT5-base model loaded on GPU
+2025-03-28 18:52:01,695 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-03-28 18:52:02,419 - INFO - Chroma vector store initialized with all-mpnet-base-v2
+2025-03-28 18:52:02,766 - INFO - Generated new code for prompt: Take a screenshot (score: 1.4997410884799731)
+2025-03-28 18:53:14,195 - INFO - Using device: cuda
+2025-03-28 18:53:14,289 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-03-28 18:53:19,919 - INFO - Embedding model (all-mpnet-base-v2) loaded
+2025-03-28 18:53:23,536 - INFO - CodeT5-base model loaded on GPU
+2025-03-28 18:53:23,939 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-03-28 18:53:24,361 - INFO - Chroma vector store initialized with all-mpnet-base-v2
+2025-03-28 18:53:24,598 - INFO - Generated new code for prompt: Take a screenshot (score: 1.4997410884799731)
+2025-03-28 18:55:50,312 - INFO - Using device: cuda
+2025-03-28 18:55:50,419 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-03-28 18:55:55,730 - INFO - Embedding model (all-mpnet-base-v2) loaded
+2025-03-28 18:56:00,225 - INFO - CodeT5-base model loaded on GPU
+2025-03-28 18:56:00,869 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-03-28 18:56:01,430 - INFO - Chroma vector store initialized with all-mpnet-base-v2
+2025-03-28 18:56:01,800 - INFO - Generated new code for prompt: Take a screenshot (score: 1.4997410884799731)
+2025-03-28 18:57:44,646 - INFO - Using device: cuda
+2025-03-28 18:57:44,776 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-03-28 18:57:49,004 - INFO - Embedding model (all-mpnet-base-v2) loaded
+2025-03-28 18:57:53,704 - INFO - CodeT5-base model loaded on GPU
+2025-03-28 18:57:54,071 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-03-28 18:57:54,802 - INFO - Chroma vector store initialized with all-mpnet-base-v2
+2025-03-28 18:57:54,803 - INFO - API starting with device: cuda
+2025-03-28 18:57:55,996 - INFO - Processing prompt: Launch Google Chrome
+2025-03-28 18:57:56,350 - INFO - Generated new code for prompt: Launch Google Chrome (score: 0.8417938524588999)
+2025-03-28 18:57:56,350 - INFO - Generated response for prompt: Launch Google Chrome
+2025-03-28 18:58:24,038 - INFO - Processing prompt: Launch Google Chrome
+2025-03-28 18:58:24,151 - INFO - Generated new code for prompt: Launch Google Chrome (score: 0.8417938524588999)
+2025-03-28 18:58:24,151 - INFO - Generated response for prompt: Launch Google Chrome
+2025-03-28 18:59:35,070 - INFO - Using device: cuda
+2025-03-28 18:59:35,169 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-03-28 18:59:41,462 - INFO - Embedding model (all-mpnet-base-v2) loaded
+2025-03-28 19:00:24,008 - INFO - Using device: cuda
+2025-03-28 19:00:24,098 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-03-28 19:00:30,358 - INFO - Embedding model (all-mpnet-base-v2) loaded
+2025-03-28 19:00:34,502 - INFO - CodeT5-base model loaded on GPU
+2025-03-28 19:00:34,792 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-03-28 19:00:35,422 - INFO - Chroma vector store initialized with all-mpnet-base-v2
+2025-03-28 19:00:35,423 - INFO - API starting with device: cuda
+2025-03-28 19:00:39,829 - INFO - Processing prompt: Launch Google Chrome
+2025-03-28 19:00:39,861 - INFO - Similarity search for 'Launch Google Chrome': matched 'Opens Google Chrome browser to Google homepage' with score 0.8417938524588999
+2025-03-28 19:00:40,598 - INFO - Generated code for prompt 'Launch Google Chrome': function( ) { return}
+2025-03-28 19:00:40,598 - INFO - Generated new code for prompt: Launch Google Chrome (score: 0.8417938524588999)
+2025-03-28 19:00:40,598 - INFO - Generated response for prompt: Launch Google Chrome
+2025-03-28 19:02:59,329 - INFO - Using device: cuda
+2025-03-28 19:02:59,436 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-03-28 19:03:05,428 - INFO - Embedding model (all-mpnet-base-v2) loaded
+2025-03-28 19:03:09,791 - INFO - CodeT5-base model loaded on GPU
+2025-03-28 19:03:10,138 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-03-28 19:03:10,947 - INFO - Chroma vector store initialized with all-mpnet-base-v2
+2025-03-28 19:03:10,948 - INFO - API starting with device: cuda
+2025-03-28 19:03:17,435 - INFO - Using device: cuda
+2025-03-28 19:03:17,554 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-03-28 19:03:45,722 - INFO - Using device: cuda
+2025-03-28 19:03:45,816 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-03-28 19:03:52,296 - INFO - Embedding model (all-mpnet-base-v2) loaded
+2025-03-28 19:03:56,162 - INFO - CodeT5-base model loaded on GPU
+2025-03-28 19:03:56,390 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-03-28 19:03:56,771 - INFO - Chroma vector store initialized with all-mpnet-base-v2
+2025-03-28 19:03:56,771 - INFO - API starting with device: cuda
+2025-03-28 19:03:59,354 - INFO - Processing prompt: Launch Google Chrome
+2025-03-28 19:03:59,388 - INFO - Similarity search for 'Launch Google Chrome': matched 'Opens Google Chrome browser to Google homepage' with score 0.8417938524588999
+2025-03-28 19:03:59,388 - INFO - Retrieved function: open_chrome (score: 0.8417938524588999)
+2025-03-28 19:03:59,389 - INFO - Generated response for prompt: Launch Google Chrome
+2025-03-28 19:04:15,535 - INFO - Processing prompt: Launch Visual Studio
+2025-03-28 19:04:15,555 - INFO - Similarity search for 'Launch Visual Studio': matched 'Opens the Notepad application' with score 1.2884302184795562
+2025-03-28 19:04:15,918 - INFO - Generated code for prompt 'Launch Visual Studio':  public void
+2025-03-28 19:04:15,918 - INFO - Generated new code for prompt: Launch Visual Studio (score: 1.2884302184795562)
+2025-03-28 19:04:15,918 - INFO - Generated response for prompt: Launch Visual Studio
+2025-03-28 19:04:29,513 - INFO - Processing prompt: Take Screenshot
+2025-03-28 19:04:29,527 - INFO - Similarity search for 'Take Screenshot': matched 'Opens the Notepad application' with score 1.5291865516909564
+2025-03-28 19:04:30,015 - INFO - Generated code for prompt 'Take Screenshot':  publicfunctionscreenshot_generated_sequenceGenerate (screenshot_generated_sequenceGeneratescreenshot_generated_sequenceGeneratescreenshot_generated_sequenceGenerate ( )
+2025-03-28 19:04:30,015 - INFO - Generated new code for prompt: Take Screenshot (score: 1.5291865516909564)
+2025-03-28 19:04:30,015 - INFO - Generated response for prompt: Take Screenshot
+2025-03-28 19:04:36,595 - INFO - Processing prompt: Launch Visual Studio
+2025-03-28 19:04:36,609 - INFO - Similarity search for 'Launch Visual Studio': matched 'Opens the Notepad application' with score 1.2884302184795562
+2025-03-28 19:04:36,886 - INFO - Generated code for prompt 'Launch Visual Studio': ()()( )( ) ; }
+2025-03-28 19:04:36,886 - INFO - Generated new code for prompt: Launch Visual Studio (score: 1.2884302184795562)
+2025-03-28 19:04:36,887 - INFO - Generated response for prompt: Launch Visual Studio
+2025-03-28 19:04:41,598 - INFO - Processing prompt: Launch Google Chrome
+2025-03-28 19:04:41,611 - INFO - Similarity search for 'Launch Google Chrome': matched 'Opens Google Chrome browser to Google homepage' with score 0.8417938524588999
+2025-03-28 19:04:41,611 - INFO - Retrieved function: open_chrome (score: 0.8417938524588999)
+2025-03-28 19:04:41,611 - INFO - Generated response for prompt: Launch Google Chrome
+2025-03-28 19:05:56,319 - INFO - Using device: cuda
+2025-03-28 19:05:56,404 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-03-28 19:06:02,876 - INFO - Embedding model (all-mpnet-base-v2) loaded
+2025-03-28 19:06:18,361 - INFO - Using device: cuda
+2025-03-28 19:06:18,457 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-03-28 19:06:25,695 - INFO - Embedding model (all-mpnet-base-v2) loaded
+2025-03-28 19:06:29,865 - INFO - CodeT5-base model loaded on GPU
+2025-03-28 19:06:30,146 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-03-28 19:06:31,723 - INFO - Chroma vector store initialized with all-mpnet-base-v2
+2025-03-28 19:06:31,724 - INFO - API starting with device: cuda
+2025-03-28 19:06:35,071 - INFO - Processing prompt: Launch Google Chrome
+2025-03-28 19:06:35,110 - INFO - Similarity search for 'Launch Google Chrome': matched 'Opens Google Chrome browser to Google homepage' with score 0.8417938524588999
+2025-03-28 19:06:35,110 - INFO - Retrieved function: open_chrome (score: 0.8417938524588999)
+2025-03-28 19:06:35,111 - INFO - Generated response for prompt: Launch Google Chrome
+2025-03-28 19:06:46,778 - INFO - Processing prompt: Take a screenshot
+2025-03-28 19:06:46,792 - INFO - Similarity search for 'Take a screenshot': matched 'Opens the Notepad application' with score 1.4997410884799731
+2025-03-28 19:06:47,212 - INFO - Generated code for prompt 'Take a screenshot':  public void(
+2025-03-28 19:06:47,212 - INFO - Generated new code for prompt: Take a screenshot (score: 1.4997410884799731)
+2025-03-28 19:06:47,213 - INFO - Generated response for prompt: Take a screenshot
+2025-03-28 19:07:14,318 - INFO - Processing prompt: Launch Calulator
+2025-03-28 19:07:14,351 - INFO - Similarity search for 'Launch Calulator': matched 'Launches the calculator application' with score 0.6469488584004062
+2025-03-28 19:07:14,351 - INFO - Retrieved function: open_calculator (score: 0.6469488584004062)
+2025-03-28 19:07:14,351 - INFO - Generated response for prompt: Launch Calulator
+2025-03-28 19:07:57,716 - INFO - Processing prompt: Open a new tab in the browser
+2025-03-28 19:07:57,751 - INFO - Similarity search for 'Open a new tab in the browser': matched 'Opens Google Chrome browser to Google homepage' with score 1.1382709980638201
+2025-03-28 19:07:58,039 - INFO - Generated code for prompt 'Open a new tab in the browser': ().......
+2025-03-28 19:07:58,039 - INFO - Generated new code for prompt: Open a new tab in the browser (score: 1.1382709980638201)
+2025-03-28 19:07:58,040 - INFO - Generated response for prompt: Open a new tab in the browser
+2025-03-28 19:53:01,952 - INFO - Using device: cuda
+2025-03-28 19:53:02,060 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-03-28 19:53:07,901 - INFO - Embedding model (all-mpnet-base-v2) loaded
+2025-03-28 19:53:13,393 - INFO - CodeT5-base model loaded on GPU
+2025-03-28 19:53:14,497 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-03-28 19:53:15,925 - INFO - Chroma vector store initialized with all-mpnet-base-v2
+2025-03-28 19:53:16,008 - INFO - Similarity search for 'Take a screenshot': matched 'Opens the Notepad application' with score 1.4997410884799731
+2025-03-28 19:53:17,991 - INFO - Generated code for prompt 'Take a screenshot':  public static void( ) {( ) ;( ) ; }( ) ;( ) ; }( ) ;( ) ;( ) ; }( ) ;( ) ; }( ) ;( ) ;( ) ; }( ) ; }( ) ;( ) ; }( ) ;( ) ; }( ) ;( ) ;( ) ;
+2025-03-28 19:53:17,991 - INFO - Generated new code for prompt: Take a screenshot (score: 1.4997410884799731)
+2025-03-28 19:58:26,291 - INFO - Using device: cuda
+2025-03-28 19:58:26,403 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-03-28 19:58:32,212 - INFO - Embedding model (all-mpnet-base-v2) loaded
+2025-03-28 19:58:36,087 - INFO - CodeT5-base model loaded on GPU
+2025-03-28 19:58:36,564 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-03-28 19:58:37,068 - INFO - Chroma vector store initialized with all-mpnet-base-v2
+2025-03-28 19:58:37,113 - INFO - Similarity search for 'Take a screenshot': matched 'Opens the Notepad application' with score 1.4997410884799731
+2025-03-28 19:58:40,869 - INFO - Generated code for prompt 'Take a screenshot':  public static void( ) {( ) ;( ) ; }( ) ;( ) ; }( ) ;( ) ;( ) ; }( ) ;( ) ; }( ) ;( ) ;( ) ; }( ) ; }( ) ;( ) ; }( ) ;( ) ; }( ) ;( ) ;( ) ;
+2025-03-28 19:58:40,869 - INFO - Generated new code for prompt: Take a screenshot (score: 1.4997410884799731)
+2025-03-28 19:58:53,816 - INFO - Using device: cuda
+2025-03-28 19:58:53,925 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-03-28 19:58:59,536 - INFO - Embedding model (all-mpnet-base-v2) loaded
+2025-03-28 19:59:02,511 - INFO - CodeT5-base model loaded on GPU
+2025-03-28 19:59:02,755 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-03-28 19:59:03,164 - INFO - Chroma vector store initialized with all-mpnet-base-v2
+2025-03-28 19:59:03,165 - INFO - API starting with device: cuda
+2025-03-28 19:59:50,968 - INFO - Using device: cuda
+2025-03-28 19:59:51,089 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-03-28 19:59:57,314 - INFO - Embedding model (all-mpnet-base-v2) loaded
+2025-03-28 20:00:02,283 - INFO - CodeT5-base model loaded on GPU
+2025-03-28 20:00:02,600 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-03-28 20:00:03,205 - INFO - Chroma vector store initialized with all-mpnet-base-v2
+2025-03-28 20:00:03,207 - INFO - API starting with device: cuda
+2025-03-28 20:00:35,348 - INFO - Processing prompt: Open chrome
+2025-03-28 20:00:35,410 - INFO - Similarity search for 'Open chrome': matched 'Opens Google Chrome browser to Google homepage' with score 0.9351739401128247
+2025-03-28 20:00:39,256 - INFO - Generated code for prompt 'Open chrome':  public static void( ) {( ) ;( ) ; }( ) ; }( ) ;( ) ; }( ) ;( ) ; }( ) ;( ) ; }( ) ;( ) ;( ) ;( ) ; }( ) ; }( ) ;( ) ;( ) ; }( ) ;( ) ; }( )
+2025-03-28 20:00:39,256 - INFO - Generated new code for prompt: Open chrome (score: 0.9351739401128247)
+2025-03-28 20:00:39,257 - INFO - Generated response for prompt: Open chrome
+2025-03-28 20:00:48,384 - INFO - Processing prompt: Open google
+2025-03-28 20:00:48,432 - INFO - Similarity search for 'Open google': matched 'Opens Google Chrome browser to Google homepage' with score 1.3780353839053208
+2025-03-28 20:00:48,842 - INFO - Generated code for prompt 'Open google':  public class{}
+2025-03-28 20:00:48,842 - INFO - Generated new code for prompt: Open google (score: 1.3780353839053208)
+2025-03-28 20:00:48,842 - INFO - Generated response for prompt: Open google
+2025-03-28 20:01:05,675 - INFO - Using device: cuda
+2025-03-28 20:01:05,788 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-03-28 20:01:12,466 - INFO - Embedding model (all-mpnet-base-v2) loaded
+2025-03-28 20:01:16,786 - INFO - CodeT5-base model loaded on GPU
+2025-03-28 20:01:17,128 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-03-28 20:01:17,717 - INFO - Chroma vector store initialized with all-mpnet-base-v2
+2025-03-28 20:01:17,718 - INFO - API starting with device: cuda
+2025-03-28 20:01:17,723 - INFO - Processing prompt: Open google
+2025-03-28 20:01:17,762 - INFO - Similarity search for 'Open google': matched 'Opens Google Chrome browser to Google homepage' with score 1.3780353839053208
+2025-03-28 20:01:18,326 - INFO - Generated code for prompt 'Open google':  publicfunction(
+2025-03-28 20:01:18,326 - INFO - Generated new code for prompt: Open google (score: 1.3780353839053208)
+2025-03-28 20:01:18,327 - INFO - Generated response for prompt: Open google
+2025-03-28 20:01:22,675 - INFO - Processing prompt: Open google
+2025-03-28 20:01:22,700 - INFO - Similarity search for 'Open google': matched 'Opens Google Chrome browser to Google homepage' with score 1.3780353839053208
+2025-03-28 20:01:22,892 - INFO - Generated code for prompt 'Open google':  public void
+2025-03-28 20:01:22,893 - INFO - Generated new code for prompt: Open google (score: 1.3780353839053208)
+2025-03-28 20:01:22,893 - INFO - Generated response for prompt: Open google
+2025-03-28 20:02:00,240 - INFO - Using device: cuda
+2025-03-28 20:02:00,339 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-03-28 20:02:05,862 - INFO - Embedding model (all-mpnet-base-v2) loaded
+2025-03-28 20:02:10,005 - INFO - CodeT5-base model loaded on GPU
+2025-03-28 20:02:10,283 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-03-28 20:02:11,059 - INFO - Chroma vector store initialized with all-mpnet-base-v2
+2025-03-28 20:02:11,059 - INFO - API starting with device: cuda
+2025-03-28 20:02:20,650 - INFO - Processing prompt: Open google
+2025-03-28 20:02:20,691 - INFO - Similarity search for 'Open google': matched 'Opens Google Chrome browser to Google homepage' with score 1.3780353839053208
+2025-03-28 20:02:21,817 - INFO - Generated code for prompt 'Open google': 
+2025-03-28 20:02:21,818 - INFO - Generated new code for prompt: Open google (score: 1.3780353839053208)
+2025-03-28 20:02:21,818 - INFO - Generated response for prompt: Open google
+2025-03-28 20:02:26,447 - INFO - Processing prompt: Open chrome
+2025-03-28 20:02:26,484 - INFO - Similarity search for 'Open chrome': matched 'Opens Google Chrome browser to Google homepage' with score 0.9351739401128247
+2025-03-28 20:02:26,873 - INFO - Generated code for prompt 'Open chrome':  public void( )
+2025-03-28 20:02:26,873 - INFO - Generated new code for prompt: Open chrome (score: 0.9351739401128247)
+2025-03-28 20:02:26,873 - INFO - Generated response for prompt: Open chrome
+2025-03-28 20:02:53,129 - INFO - Processing prompt: Launch Google Chrome
+2025-03-28 20:02:53,184 - INFO - Similarity search for 'Launch Google Chrome': matched 'Opens Google Chrome browser to Google homepage' with score 0.8417938524588999
+2025-03-28 20:02:53,184 - INFO - Retrieved function: open_chrome (score: 0.8417938524588999)
+2025-03-28 20:02:53,184 - INFO - Generated response for prompt: Launch Google Chrome
+2025-03-28 20:03:03,942 - INFO - Processing prompt: Take a screenshot
+2025-03-28 20:03:03,972 - INFO - Similarity search for 'Take a screenshot': matched 'Opens the Notepad application' with score 1.4997410884799731
+2025-03-28 20:03:04,994 - INFO - Generated code for prompt 'Take a screenshot':  public class{...... screenshot ( ) ;.. screenshot ( ) ;
+2025-03-28 20:03:04,994 - INFO - Generated new code for prompt: Take a screenshot (score: 1.4997410884799731)
+2025-03-28 20:03:04,994 - INFO - Generated response for prompt: Take a screenshot
+2025-03-28 20:03:17,215 - INFO - Processing prompt: Open a new tab in the browser
+2025-03-28 20:03:17,248 - INFO - Similarity search for 'Open a new tab in the browser': matched 'Opens Google Chrome browser to Google homepage' with score 1.1382709980638201
+2025-03-28 20:03:20,676 - INFO - Generated code for prompt 'Open a new tab in the browser':  public class{( ) ;( ) ;( ) ;( ) ;( ) ; }( ) ;( ) ;( ) ;( ) ;( ) ;( ) ;( ) ; }( ) ;( ) ; }) ;( ) ;( ) ;( ) ;( ) ;( ) ;( ) ;() ;
+2025-03-28 20:03:20,677 - INFO - Generated new code for prompt: Open a new tab in the browser (score: 1.1382709980638201)
+2025-03-28 20:03:20,677 - INFO - Generated response for prompt: Open a new tab in the browser
+2025-03-28 20:04:13,134 - INFO - Using device: cuda
+2025-03-28 20:04:13,240 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-03-28 20:04:19,255 - INFO - Embedding model (all-mpnet-base-v2) loaded
+2025-03-28 20:04:23,469 - INFO - CodeT5-base model loaded on GPU
+2025-03-28 20:04:23,738 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-03-28 20:04:24,552 - INFO - Chroma vector store initialized with all-mpnet-base-v2
+2025-03-28 20:04:24,554 - INFO - API starting with device: cuda
+2025-03-28 20:04:31,562 - INFO - Processing prompt: Run a shell command
+2025-03-28 20:04:31,608 - INFO - Similarity search for 'Run a shell command': matched 'Launches the calculator application' with score 1.4470773007562077
+2025-03-28 20:04:35,416 - INFO - Generated code for prompt 'Run a shell command':  public static void( ) {( ) ;( ) ; }( ) ;( ) ; }( ) ; }( ) ;( ) ; }( ) ;( ) ; }( ) ;( ) ; }( ) ; }( ) ;( ) ; }( ) ; }( ) ; }( ) ;( ) ; }( ) ; }
+2025-03-28 20:04:35,416 - INFO - Generated new code for prompt: Run a shell command (score: 1.4470773007562077)
+2025-03-28 20:04:35,417 - INFO - Generated response for prompt: Run a shell command
+2025-03-28 20:04:48,640 - INFO - Processing prompt: Download a webpage
+2025-03-28 20:04:48,682 - INFO - Similarity search for 'Download a webpage': matched 'Opens Google Chrome browser to Google homepage' with score 1.558481383994618
+2025-03-28 20:04:49,463 - INFO - Generated code for prompt 'Download a webpage':  public void( ) {}
+2025-03-28 20:04:49,463 - INFO - Generated new code for prompt: Download a webpage (score: 1.558481383994618)
+2025-03-28 20:04:49,463 - INFO - Generated response for prompt: Download a webpage
+2025-03-28 20:04:54,949 - INFO - Processing prompt: Download a webpage
+2025-03-28 20:04:54,978 - INFO - Similarity search for 'Download a webpage': matched 'Opens Google Chrome browser to Google homepage' with score 1.558481383994618
+2025-03-28 20:04:58,356 - INFO - Generated code for prompt 'Download a webpage':  public void( ) {custom_generated
+Writecustom_generated
+Writecustom_generated
+Writecustom_generated
+Writecustom_generated
+Writecustom_generated
+Writecustom_generated
+Writecustom_generated
+Writecustom_generated
+Writecustom_generated
+Writecustom_generated
+Writecustom_generated
+Writecustom_generated
+Writecustom_generated
+Writecustom_generated
+Write
+2025-03-28 20:04:58,356 - INFO - Generated new code for prompt: Download a webpage (score: 1.558481383994618)
+2025-03-28 20:04:58,356 - INFO - Generated response for prompt: Download a webpage
+2025-03-28 20:04:59,891 - INFO - Processing prompt: Open a new tab in the browser
+2025-03-28 20:04:59,920 - INFO - Similarity search for 'Open a new tab in the browser': matched 'Opens Google Chrome browser to Google homepage' with score 1.1382709980638201
+2025-03-28 20:05:03,318 - INFO - Generated code for prompt 'Open a new tab in the browser':  public void( ) {( ) ; }( ) ;( ) ;( ) ;( ) ;( ) ;( ) ; }( ) ;( ) ;( ) ;( ) ;( ) ;( ) ;( ) ;( ) ;( ) ;( ) ;( ) ;( ) ;( ) ;( ) ;( )
+2025-03-28 20:05:03,318 - INFO - Generated new code for prompt: Open a new tab in the browser (score: 1.1382709980638201)
+2025-03-28 20:05:03,318 - INFO - Generated response for prompt: Open a new tab in the browser
